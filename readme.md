@@ -2,7 +2,7 @@ This issue was reported [here](https://developercommunity.visualstudio.com/conte
 
 It now looks like:
 
-
+![](images/file3.png)
 
 #### Showing the issue
 I notice that VS is still (15.8.5) showing yellow markers where there is no need for them to be.
